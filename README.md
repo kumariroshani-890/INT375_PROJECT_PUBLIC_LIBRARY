@@ -1,9 +1,9 @@
 # 📚 Public Library Analytics Using Python
 
 ## Overview
-This project explores patterns and insights within a public library dataset using Python. From understanding how population influences library visits to analyzing expenditure disparities across regions, the goal was to uncover data-driven stories from libraries around the world.
+This project delves into patterns and insights within a public library dataset using Python. By exploring how factors like population size influence library visits and examining regional disparities in library expenditures, the aim was to uncover meaningful, data-driven narratives about libraries across the globe.
 
-The project was developed as part of the **INT375 - Data Science with Python** course at **Lovely Professional University** (School of Computer Science & Engineering).
+This project was undertaken as part of the INT375 – Data Science with Python course at Lovely Professional University, under the School of Computer Science and Engineering.
 
 ---
 

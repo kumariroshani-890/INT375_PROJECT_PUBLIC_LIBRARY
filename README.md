@@ -13,7 +13,6 @@ This project was undertaken as part of the INT375 – Data Science with Python c
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook / VS Code
 
 ---
 

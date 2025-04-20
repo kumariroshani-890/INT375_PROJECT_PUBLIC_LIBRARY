@@ -3,6 +3,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+#Statistical info
 df=pd.read_csv("C:/Users/Dell/OneDrive/Documents/Public_Libraries (1).csv")
 print(df.info())
 

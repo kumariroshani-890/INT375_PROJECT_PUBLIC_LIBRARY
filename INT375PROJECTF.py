@@ -67,7 +67,7 @@ plt.show()
 
 correlation = df['Population of Service Area'].corr(df['Total Library Visits'])
 print(f"Correlation between Population and Total Library Visits: {correlation:.2f}")
-#Interpretation of Scatter Plot:There seems to be a positive trend, especially for smaller populations (under 60,000), where an increase in population generally increases visits.However, there’s significant spread (variance) at all levels, especially in higher population areas, which may suggest:Some libraries are better utilized than others.Other factors (like library programs, digital access, or funding) might also influence visits.
+#Interpretation of Scatter Plot:There seems to be a positive trend, especially for smaller populations (under 60,000), where an increase in population generally increases visits.
 
 
 

@@ -150,4 +150,5 @@ plt.ylabel('Collection Per Capita Served')
 plt.grid(True, linestyle='--', alpha=0.5)
 plt.tight_layout()
 plt.show()
+#Best visualization as per the scenario
 
